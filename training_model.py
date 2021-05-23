@@ -95,8 +95,8 @@ def take_screenshot_from_video():
 
 
 def main():
-    # print(train_model_by_img("person_name"))
-    take_screenshot_from_video()
+    print(train_model_by_img("Person_name"))
+    # take_screenshot_from_video()
 
 
 if __name__ == '__main__':
